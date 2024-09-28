@@ -1,0 +1,5 @@
+com\everis\base\models\Areas.class
+com\everis\base\models\Support.class
+com\everis\base\models\ChildAreas.class
+com\everis\base\models\Book.class
+com\everis\base\models\User.class
